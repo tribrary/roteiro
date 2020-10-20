@@ -1,0 +1,144 @@
+.logout{
+    position: fixed;
+	top: 0px;
+	left: 95%;
+	weidth: 5px;
+}
+.cor{
+	text-color: white;
+}
+.body{
+	background-color: #02153D; 	
+}
+.body2{
+	background-color: #F6F6F6; 	
+}
+
+.barraNavegacao{
+	background-color: #02153D;
+	width: 100%px;
+	height: 25px;
+}
+
+.barraNavegacao2{
+	background-color: #EBF0F6; 
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 30px;
+  width: 100%;
+  background-color: #02153D;
+  color: #EBF0F6;
+  text-align: center;
+  padding: 1px 0;	
+}
+
+#conteudo{
+	background-color: #FFFFFF;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	top: 60px;
+	bottom: 60px;
+	padding-bottom: 25px;
+    padding-top: 25px;
+    vertical-align: center;
+    box-shadow: 0 .3em 1em #000;
+}
+
+.labelFooter{
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	letter-spacing: 0.5px;
+	color: #FFFFFF; 	
+}
+
+.itensNavbar{
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	letter-spacing: 0.5px;
+	color: #02153D; 
+}
+
+.titulo{
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: #02153D; 
+	text-align: center;
+	letter-spacing: 0.5px;
+}
+
+.tituloForm{
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: #02153D; 
+	letter-spacing: 0.5px;
+}
+
+.texto{
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	letter-spacing: 0.5px;
+	color: #02153D; 
+}
+
+.ColLogin{
+
+    top: 90px;
+	background-color: #FFFFFF;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    vertical-align: center;
+    box-shadow: 0 .3em 1em #000;
+
+}
+
+
+
+.btnLogin{
+	background-color: #02153D;
+	color: #FFFFFF; 
+
+}
+
+.btnPadrao{
+	background-color: #02153D;
+	color: #FFFFFF; 
+
+}
+.ms-lista {
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    transition: border linear 0.2s, box-shadow linear 0.2s;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    position: relative;
+    height: 200px;
+    padding: 0;
+    overflow-y: auto;
+    color: #000000;
+}
+
+.chkTags {
+	display: none;
+}
+
+#lstTag li {
+	cursor: pointer;
+}
