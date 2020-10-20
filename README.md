@@ -35,11 +35,11 @@ Os ônibus serão cadastrados e suas informações poderão ser editadas.
 <a href="https://drive.google.com/drive/folders/1jEi6fiIKuuxIkMrgeHrf7WMO5NQ8xK-u?usp=sharing">Telas</a>
 </br>
 <h2>Diagrama de dominio:</h2><br>
-<img src="ProjetoRoteiro/src/main/resources/imagens/diagramaclasses.png">
+<img src="roteiro/blob/master/src/main/resources/imagens/diagramaclasses.png">
 
 <h2>Diagrama de entidades:</h2><br>
-<img src="ProjetoRoteiro/src/main/resources/imagens/diagramarelacionamento.png">
+<img src="roteiro/blob/master/src/main/resources/imagens/diagramarelacionamento.png">
 </br>
 </br>
 </br>
-<img src="ProjetoRoteiro/src/main/resources/imagens/diagramaentidade.png">
+<img src="roteiro/blob/master/src/main/resources/imagens/diagramaentidade.png">
